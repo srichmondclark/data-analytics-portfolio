@@ -1,0 +1,30 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (uncomment if you don't want to track data)
+# *.csv
+# *.xlsx
+# *.xls
+# *.rds
+# *.rda
+
+# Output files
+*.pdf
+*.html
+*.png
+*.jpg
+*.jpeg
+
+# OS specific
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary files
+*~
+*.tmp
+*.swp
