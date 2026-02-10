@@ -1,8 +1,8 @@
 data-analytics-portfolio
- ├── README.md
- └── behavioural-data-analysis/
-      ├── README.md
-      └── analysis.R
+ README.md
+ behavioural-data-analysis/
+ README.md
+ analysis.R
 
 
 # Behavioural Data Analysis
